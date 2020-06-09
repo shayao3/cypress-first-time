@@ -1,0 +1,27 @@
+{
+  "name": "cypress-first-time",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shayao3/cypress-first-time.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shayao3/cypress-first-time/issues"
+  },
+  "homepage": "https://github.com/shayao3/cypress-first-time#readme",
+  "dependencies": {
+    "cypress": "^4.8.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.2.0",
+    "eslint-plugin-cypress": "^2.11.1"
+  }
+}
